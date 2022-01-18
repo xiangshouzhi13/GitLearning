@@ -1,1 +1,3 @@
 Learning Git & Gerrit.
+
+add the sencond words in xsz.txt
